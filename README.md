@@ -14,7 +14,7 @@ If your database has not been created yet, the program will create it automatica
 
 
 # Technologies Used
--Java
+- Java
 
 
 # How to save/load database (Intellij)
