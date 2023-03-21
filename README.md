@@ -10,6 +10,8 @@ Organization:
 name, address, phone number
 
 User can also see information about the last edit and created record, and save it to database from command-line arguments
+If your database has not been created yet, the program will create it automatically if you add name for example database.db in command-line arguments
+
 
 # Technologies Used
 -Java
@@ -20,7 +22,11 @@ User can also see information about the last edit and created record, and save i
 2) Click "Modify Run Configuration..."
 3) Find field "Program arguments" 
 4) Write for example: contacts.db
-If your database has not been created yet, the program will create it automatically
+
+
+![image](https://user-images.githubusercontent.com/92478936/226715374-c03b69bb-869f-420a-ae79-0747221e1e7d.png)
+![image](https://user-images.githubusercontent.com/92478936/226715778-37298b20-3bb3-40e2-a942-1389a16cbec1.png)
+
 
 
 # Sample application session:
